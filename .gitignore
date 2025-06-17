@@ -1,2 +1,5 @@
-node_modules
+# Ignore env files
 config.env
+
+# Ignore node_modules
+node_modules/
